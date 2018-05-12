@@ -1,0 +1,29 @@
+_repo: Latin-PronunciationA-Short-Exposition-of-the-Roman-Method_28994
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28994-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peck, Harry Thurston
+    aliases:
+    - Pyke, Rafford
+    - Peck, H. T. (Harry Thurston)
+    birthdate: 1856
+    deathdate: 1914
+    gutenberg_agent_id: '33626'
+    url: http://www.gutenberg.org/2009/agents/33626
+description: ''
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin language -- Pronunciation'
+- !lcc 'PA'
+title: 'Latin Pronunciation: A Short Exposition of the Roman Method'
+url: http://www.gutenberg.org/ebooks/28994
